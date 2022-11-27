@@ -1,0 +1,23 @@
+.product_card{
+background:lightgreen;
+width:300px;
+/* padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 30px;
+padding-left: 40px; */
+
+padding:10px 20px 30px 40px;
+
+}
+.item2{
+    background: skyblue;
+}
+.item3{
+    background:lightgray;
+}
+.item4{
+    background: burlywood;
+}
+.item5{
+    background: wheat;
+}
